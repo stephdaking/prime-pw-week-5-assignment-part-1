@@ -25,6 +25,8 @@ console.log('A little about me:', me);
 */
 let fullName = me.firstName + me.lastName;
 
+console.log(fullName);
+
 /* 3. Nested arrays
   - Console.log your first favorite food
   - Console.log your last favorite food 
