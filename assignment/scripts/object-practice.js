@@ -53,3 +53,5 @@ console.log(me.shoeCount);
 */
 
 me.favoriteColor = 'Blue';
+
+console.log(me.favoriteColor);
